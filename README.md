@@ -23,7 +23,7 @@ ZillaOptions allows users to trade binary options, a financial product where use
 - **MySQL/MariaDB**: Used for storing user account information and other relational data.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/zillaoptions-binary-options-platform.git`
+1. Clone the repository: `git clone https://github.com/boopathiviky/zilla-options.git`
 2. Install dependencies for PHP backend.
 3. Set up Elasticsearch and configure it to store market data.
 4. Configure database settings for MySQL/MariaDB.

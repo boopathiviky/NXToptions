@@ -1,4 +1,4 @@
-
+### Due to terms and condtions some file are not availabe here
 # ZillaOptions Binary Options Platform
 
 ZillaOptions is a binary options trading platform designed to provide users with a seamless trading experience. This project implements the platform using PHP, Python, and Elasticsearch, offering a powerful combination of backend and data storage technologies.

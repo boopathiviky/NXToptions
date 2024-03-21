@@ -25,7 +25,7 @@ ZillaOptions provides a user-friendly interface for traders to engage in binary 
 - **USDT Payment Gateway**: Integration for secure transactions.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/yourusername/zillaoptions.git`
+1. Clone the repository: `git clone https://github.com/boopathiviky/zilla-options.git`
 2. Install dependencies as specified in the README.
 3. Configure the USDT payment gateway settings.
 4. Run the platform on your server.

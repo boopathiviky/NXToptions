@@ -19,8 +19,8 @@ application.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(hours=1)
 application.config["JWT_REFRESH_TOKEN_EXPIRES"] = timedelta(days=30)
 application.config['MAIL_SERVER']='smtp.gmail.com'
 application.config['MAIL_PORT'] = 465
-application.config['MAIL_USERNAME'] = 'lingeshw536@gmail.com'
-application.config['MAIL_PASSWORD'] = 'viky@13752410'
+application.config['MAIL_USERNAME'] = ''
+application.config['MAIL_PASSWORD'] = ''
 application.config['MAIL_USE_TLS'] = False
 application.config['MAIL_USE_SSL'] = True
 mail = Mail(application)

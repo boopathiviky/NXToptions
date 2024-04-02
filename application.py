@@ -14,7 +14,7 @@ application = Flask(__name__)
 
 # Set debug true for catching the errors.
 application.config['DEBUG'] = True
-application.config["JWT_SECRET_KEY"] = "jbi434bhb34uui3o34383rbu3b34ggygygugugugyugugu"  # Change this!
+application.config["JWT_SECRET_KEY"] = ""  # Change this!
 application.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(hours=1)
 application.config["JWT_REFRESH_TOKEN_EXPIRES"] = timedelta(days=30)
 application.config['MAIL_SERVER']='smtp.gmail.com'
